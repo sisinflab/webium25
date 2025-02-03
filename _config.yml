@@ -1,0 +1,8 @@
+title: " WeBIUM 1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling (WeBIUM) @UMAP 2024"
+description:  1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling (WeBIUM)
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
