@@ -66,6 +66,7 @@ Topics of interest include, but are not limited to:
 + Innovative methodologies for user studies in wearable technologies
 + Ethical considerations in conducting user studies exploring WDs and BCIs
 
+
 ## CATEGORIES OF SUBMISSIONS: <a name="CAT"></a>
 
 
@@ -76,10 +77,6 @@ Topics of interest include, but are not limited to:
 
 ## PROGRAM COMMITTEE <a name="PC"></a>
 
-+ Carmelo Antonio Ardito - Università LUM "Giuseppe Degennaro", Italy
-+ Giuseppe D’Aniello - Università of Salerno, Italy
-+ Pietro Pinoli - Politecnico di Milano, Italy
-+ Elvira Brattico - Aarhus University, Denmark
 + Hasan Ayaz -  Drexel University, Philadelphia, USA
 + Yehia Ibrahim -  University of Liverpool, UK
 + Yalin Zheng -  University of Liverpool and Liverpool Heart and Chest Hospital, UK
@@ -88,24 +85,39 @@ Topics of interest include, but are not limited to:
 + Andrea Pazienza, NTT DATA Italia SpA
 + Noemi Mauro, University of Torino	
 + Eelco Herder, Utrecht University
++ Carmelo Antonio Ardito - Polytechnic University of Bari, Italy
++ Liliana Ardissono - University of Torino, Italy
++ Alejandro Bellogin - Universidad Autonoma de Madrid, Spain
++ Maria Bielikova - Kempelen Institute of Intelligent Technologies, Slovakia
++ Elvira Brattico - Aarhus University, Denmark
++ Giuseppe D’Aniello - Università of Salerno, Italy
++ Berardina DeCarolis - University of Bari Aldo Moro, Dept. of Computer Science, Italy
++ Marco de Gemmis - University of Bari Aldo Moro, Dept. of Computer Science, Italy
++ Fabio Gasparetti - Artificial Intelligence Laboratory – ROMA TRE University, Italy
++ Elisabeth Lex Graz - University of Technology, Austria
++ Pietro Pinoli - Politecnico di Milano, Italy
++ Alain Starke - University of Amsterdam, Netherlands
++ Markus Zanker Free - University of Bozen-Bolzano and University of Klagenfurt, Austria
+
 
 ## IMPORTANT DATES <a name="ID"></a>
-
-+ <del>April 15, 2024: abstract and title submission (mandatory)</del>
-+ <del>April 24,</del><b>May 3, 2024: paper submission</b>
-+ May 8, 2024: notification to authors
-+ May 16, 2024: camera-ready due 
+TO BE DEFINED
+%+ <del>April 15, 2024: abstract and title submission (mandatory)</del>
+%+ <del>April 24,</del><b>May 3, 2024: paper submission</b>
+%+ May 8, 2024: notification to authors
+%+ May 16, 2024: camera-ready due 
 
 <div class="heading-button-container">
-<a href="https://easychair.org/conferences/?conf=umap24" class="button">Submit a paper</a>
+%<a href="https://easychair.org/conferences/?conf=umap24" class="button">Submit a paper</a>
+<a href="" class="button">Submit a paper</a>
 </div>
 
-During the submission process select <b>“1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling”</b>.
+During the submission process select <b>“2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling”</b>.
 
 
 ## PROGRAM <a name="WO"></a>
 
-The 1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling - WEBIUM24, will take place on Thursday, July 4, from 9.00 to 12.30.
+The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling - WEBIUM25, will take place on %Thursday, July 4, from 9.00 to 12.30.
 
 + <b>09.15-10.30: Paper Presentation 1</b>
 + <b>09.15-09.40:</b> Marzo S. et al. - "Exploring the Usability and Trustworthiness of AI-Driven User Interfaces for Neurological Diagnosis".
