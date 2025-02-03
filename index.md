@@ -108,6 +108,28 @@ The 1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Mode
 ## ORGANIZERS <a name="OR"></a>
 
 
+### Domenico Lofù
+
+_Assistant Professor at Polytechnic University of Bari (Italy)_
+
+Email: [domenico.lofu@poliba.it](mailto:domenico.lofu@poliba.it)
+
+Website: [https://sisinflab.poliba.it/people/domenico-lofu/](https://sisinflab.poliba.it/people/domenico-lofu/)
+
+<img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/2l-5593469268-360x270.png" alt="Domenico Lofù"  width="200" />
+
+
+### Paolo Sorino
+
+_Ph.D. Candidate at Polytechnic University of Bari (Italy)_
+
+Email: [paolo.sorino@poliba.it](mailto:paolo.sorino@poliba.it)
+
+Website: [https://sisinflab.poliba.it/people/paolo-sorino/](https://sisinflab.poliba.it/people/paolo-sorino/)
+
+<img src="https://sisinflab.poliba.it/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-11-at-09.45.08-e1636620797172-360x270.jpeg" alt="Paolo Sorino"  width="200" />
+
+
 ### Tommaso Colafiglio 
 
 _Ph.D. Student at Sapienza University of Rome, Italy_
@@ -117,6 +139,17 @@ Email: [tommaso.colafiglio@uniroma1.it](mailto:tommaso.colafiglio@uniroma1.it)
 Website: [https://sisinflab.poliba.it/people/tommaso-colafiglio/](https://sisinflab.poliba.it/people/tommaso-colafiglio/)
 
 <img src="https://sisinflab.poliba.it/wp-content/uploads/2023/06/tomm-colafiglio-1-360x270.jpg" alt="Tommaso Colafiglio"  width="200"/>
+
+
+### Angela Lombardi
+
+_Assistant Professor at Polytechnic University of Bari (Italy)_
+
+Email: [angela.lombardi@poliba.it](mailto:angela.lombardi@poliba.it)
+
+Website: [https://sisinflab.poliba.it/people/angela-lombardi/](https://sisinflab.poliba.it/people/angela-lombardi/)
+
+<img src="https://sisinflab.poliba.it/wp-content/uploads/2022/09/lombardi.jpg" alt="Angela Lombardi"  width="200" />
 
 
 ### Tommaso Di Noia
@@ -130,27 +163,6 @@ Website: [https://sisinflab.poliba.it/people/tommaso-di-noia/](https://sisinflab
 <img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/t_dinoia-506699224-315x270.png" alt="Tommaso Di Noia"  width="200" />
 
 
-### Domenico Lofù
-
-_Assistant Professor at Polytechnic University of Bari (Italy)_
-
-Email: [domenico.lofu@poliba.it](mailto:domenico.lofu@poliba.it)
-
-Website: [https://sisinflab.poliba.it/people/domenico-lofu/](https://sisinflab.poliba.it/people/domenico-lofu/)
-
-<img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/2l-5593469268-360x270.png" alt="Domenico Lofù"  width="200" />
-
-
-### Angela Lombardi
-
-_Assistant Professor at Polytechnic University of Bari (Italy)_
-
-Email: [angela.lombardi@poliba.it](mailto:angela.lombardi@poliba.it)
-
-Website: [https://sisinflab.poliba.it/people/angela-lombardi/](https://sisinflab.poliba.it/people/angela-lombardi/)
-
-<img src="https://sisinflab.poliba.it/wp-content/uploads/2022/09/lombardi.jpg" alt="Angela Lombardi"  width="200" />
-
 ### Fedelucio Narducci 
 
 _Associate Professor at Polytechnic University of Bari (Italy)_
@@ -160,13 +172,3 @@ Email: [fedelucio.narducci@poliba.it](mailto:fedelucio.narducci@poliba.it)
 Website: [https://sisinflab.poliba.it/people/fedelucio-narducci/](https://sisinflab.poliba.it/people/fedelucio-narducci/)
 
 <img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/2030_23122020_52-6_resized-e1660202549932-360x270.jpg" alt="Fedelucio Narducci"  width="200" />
-
-### Paolo Sorino
-
-_Ph.D. Candidate at Polytechnic University of Bari (Italy)_
-
-Email: [paolo.sorino@poliba.it](mailto:paolo.sorino@poliba.it)
-
-Website: [https://sisinflab.poliba.it/people/paolo-sorino/](https://sisinflab.poliba.it/people/paolo-sorino/)
-
-<img src="https://sisinflab.poliba.it/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-11-at-09.45.08-e1636620797172-360x270.jpeg" alt="Paolo Sorino"  width="200" />
