@@ -67,7 +67,7 @@ Topics of interest include, but are not limited to:
 + Ethical considerations in conducting user studies exploring WDs and BCIs
 
 
-## CATEGORIES OF SUBMISSIONS: <a name="CAT"></a>
+## CATEGORIES OF SUBMISSIONS <a name="CAT"></a>
 
 
 + Long Research Papers: These are reserved for reports on mature original research results. The expected length of a long paper submission should be in the range of 8-14 pages of content, plus up to 3 pages for references. 
@@ -108,10 +108,10 @@ TO BE DEFINED
 #+ May 8, 2024: notification to authors
 #+ May 16, 2024: camera-ready due-->
 
-<div class="heading-button-container">
-<!--<a href="https://easychair.org/conferences/?conf=umap24" class="button">Submit a paper</a>-->
+<!--<div class="heading-button-container">
+<a href="https://easychair.org/conferences/?conf=umap24" class="button">Submit a paper</a>
 <a href="" class="button">Submit a paper</a>
-</div>
+</div>-->
 
 During the submission process select <b>“2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling”</b>.
 
