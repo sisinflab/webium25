@@ -122,7 +122,7 @@ During the submission process select <b>“2nd Workshop on Wearable Devices and 
 The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling - WEBIUM25, will take place on (To be Defined) <!--%Thursday, July 4, from 9.00 to 12.30.-->
 
 + <b>09.00-09.10:</b> Opening and Welcome
-+ <b>09.10 - 09.50:</b> Invited Keynote<br>
++ <b>09.10 - 09.50:</b> Invited Talk<br>
 <b>’Wearables and xR: From personalized healthcare to user-centred immersive experiences’</b><br>
 <i>by Tiago Falk, Full Professor at INRS-EMT, University of Quebec, FIEEE</i><br>
 + <b>09.50 - 10.30:</b> I Session Paper Presentations
@@ -132,6 +132,8 @@ The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Mode
 + <b>12.25 - 12.45:</b> Wrap up and summary
 
 ## INVITED TALK <a name="IN"></a>
+
+<p align="Centre"><b>Wearables and xR: From personalized healthcare to user-centred immersive experiences<b></b></p>
 
 <p align="justify">Tiago H. Falk is a Full Professor at the Institut national de la recherche scientifique, Centre on Energy, Materials, and Telecommunications (INRS-EMT), University of Québec, where he directs the Multisensory Signal Analysis and Enhancement Lab focused on building next-generation human-machine interfaces for both real and virtual worlds. He is also the Co-Director of the INRS-UQO Mixed Research Unit on Cybersecurity and Digital Trust, where research is being conducted to make human-machine interfaces secure and reliable by tackling emerging vulnerabilities to artificial intelligence algorithms. He is Co-Chair of the IEEE Future Directions in Telepresence Initiative, Co-Chair of the Technical Committee on Brain-Machine Interface Systems of the IEEE Systems, Man and Cybernetics (SMC) Society, Associate Editor of the IEEE Transactions on Human-Machine Systems, Member-at-Large of the IEEE SMC Society Board of Governors, Editor-in-Chief of the IEEE SMC eNewsletter, and a Fellow of the IEEE.</p>
 
