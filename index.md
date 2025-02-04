@@ -102,10 +102,10 @@ Topics of interest include, but are not limited to:
 
 ## IMPORTANT DATES <a name="ID"></a>
 TO BE DEFINED
-/*+ <del>April 15, 2024: abstract and title submission (mandatory)</del>
-+ <del>April 24,</del><b>May 3, 2024: paper submission</b>
-+ May 8, 2024: notification to authors
-#+ May 16, 2024: camera-ready due*/
+#+ <del>April 15, 2024: abstract and title submission (mandatory)</del>
+#+ <del>April 24,</del><b>May 3, 2024: paper submission</b>
+#+ May 8, 2024: notification to authors
+#+ May 16, 2024: camera-ready due
 
 <div class="heading-button-container">
 <a href="https://easychair.org/conferences/?conf=umap24" class="button">Submit a paper</a>
