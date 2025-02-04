@@ -116,11 +116,21 @@ TO BE DEFINED
 During the submission process select <b>“2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling”</b>.
 
 
-## PROGRAM <a name="WO"></a>
+## PRELIMINARY PROGRAM <a name="WO"></a>
 
-The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling - WEBIUM25, will take place on %Thursday, July 4, from 9.00 to 12.30.
+The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling - WEBIUM25, will take place on (To be Defined) <!--%Thursday, July 4, from 9.00 to 12.30.-->
 
-+ <b>09.15-10.30: Paper Presentation 1</b>
++ <b>09.00-09.10:</b> Opening and Welcome</b>
++ <b>09.10 - 09.50:</b> Invited Keynote<br>
+’Wearables and xR: From personalized healthcare to user-centred immersive experiences’
+by Tiago Falk, Full Professor at INRS-EMT, University of Quebec, FIEEE
+09.50 - 10.30 - I Session Paper Presentations
+10.30 - 11.00 - Break
+11.00 - 12.15 - II Session Paper Presentations
+12.15 - 12.25 - Lessons learned and roundtable with the authors
+12.25 - 12.45 - Wrap up and summary
+
+
 + <b>09.15-09.40:</b> Marzo S. et al. - "Exploring the Usability and Trustworthiness of AI-Driven User Interfaces for Neurological Diagnosis".
 + <b>09.40-10.05:</b> Mongardi S. et al. - "Exploring Federated Learning for Emotion Recognition on Brain-Computer Interfaces".
 + <b>10.05-10:30:</b> Festa F. et al. - "EmoSynth Real Time Emotion-Driven Sound Texture Synthesis via Brain-Computer Interface".
