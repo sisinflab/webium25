@@ -122,8 +122,13 @@ The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Mode
 
 + <b>09.00-09.10:</b> Opening and Welcome
 + <b>09.10 - 09.50:</b> Invited Keynote<br>
-’Wearables and xR: From personalized healthcare to user-centred immersive experiences’<br>
-by Tiago Falk, Full Professor at INRS-EMT, University of Quebec, FIEEE<br>
+<!--’Wearables and xR: From personalized healthcare to user-centred immersive experiences’<br>
+by Tiago Falk, Full Professor at INRS-EMT, University of Quebec, FIEEE<br>-->
+<p style="color: lightgreen; font-style: italic;">
+    ‘Wearables and xR: From personalized healthcare to user-centred immersive experiences’<br>
+    by Tiago Falk, Full Professor at INRS-EMT, University of Quebec, FIEEE
+</p>
+
 + <b>09.50 - 10.30:</b> I Session Paper Presentations
 + <b>10.30 - 11.00:</b> Break
 + <b>11.00 - 12.15:</b> II Session Paper Presentations
