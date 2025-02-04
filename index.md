@@ -131,6 +131,9 @@ The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Mode
 + <b>12.15 - 12.25:</b> Lessons learned and roundtable with the authors
 + <b>12.25 - 12.45:</b> Wrap up and summary
 
+## INVITED TALK <a name="IN"></a>
+
+<p align="Centre"><b>'Wearables and xR: From personalized healthcare to user-centred immersive experiences'</b><br><i>by Tiago Falk</i></p>
 
 ## ORGANIZERS <a name="OR"></a>
 
