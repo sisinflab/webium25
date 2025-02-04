@@ -30,7 +30,7 @@ By drawing on cutting-edge research and practical expertise, the workshop aims t
 <p align="justify">
 The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling (WeBIUM) is dedicated to exploring the comprehensive utilization of data derived from Wearable Devices (WDs), Brain-Computer Interfaces (BCIs)
 and LLM systems to elevate the user experience through enhanced user profiling and modelling. The primary aim of this workshop is to stimulate research initiatives that integrate wearable devices (WDs) and brain-computer interfaces (BCIs) to acquire real-time biological data, thereby enhancing the precision of user profiling techniques. WeBIUM is dedicated to driving advancements in user modeling methodologies, with the ultimate goal of optimizing user engagement and
-satisfaction by providing personalization algorithms with highly accurate contextual and user-specific information. This mission aligns closely with the findings and perspectives outlined in recent literature [ 13 , 30 ]. The workshop
+satisfaction by providing personalization algorithms with highly accurate contextual and user-specific information. This mission aligns closely with the findings and perspectives outlined in recent literature. The workshop
 seeks to create a platform for in-depth discussions and collaborative knowledge exchange among researchers and industry professionals, focusing on the development and application of solutions leveraging data from WDs and BCIs.
 Specifically, the objectives of the workshop are to:</p>
 
