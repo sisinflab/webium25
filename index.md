@@ -133,7 +133,8 @@ The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Mode
 
 ## INVITED TALK <a name="IN"></a>
 
-<p align="Centre"><b>'Wearables and xR: From personalized healthcare to user-centred immersive experiences'</b><br><i>by Tiago Falk</i></p>
+<p align="Centre"><b>'Wearables and xR: From personalized healthcare to user-centred immersive experiences'</b></p>
+<p align="Centre"><i>by Tiago Falk</i></p>
 
 ## ORGANIZERS <a name="OR"></a>
 
