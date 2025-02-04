@@ -120,10 +120,10 @@ During the submission process select <b>“2nd Workshop on Wearable Devices and 
 
 The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling - WEBIUM25, will take place on (To be Defined) <!--%Thursday, July 4, from 9.00 to 12.30.-->
 
-+ <b>09.00-09.10:</b> Opening and Welcome</b>
++ <b>09.00-09.10:</b> Opening and Welcome
 + <b>09.10 - 09.50:</b> Invited Keynote<br>
 ’Wearables and xR: From personalized healthcare to user-centred immersive experiences’<br>
-by Tiago Falk, Full Professor at INRS-EMT, University of Quebec, FIEEE
+by Tiago Falk, Full Professor at INRS-EMT, University of Quebec, FIEEE<br>
 + <b>09.50 - 10.30:</b> I Session Paper Presentations
 + <b>10.30 - 11.00:</b> Break
 + <b>11.00 - 12.15:</b> II Session Paper Presentations
