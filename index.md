@@ -148,7 +148,7 @@ Website: [https://sisinflab.poliba.it/people/domenico-lofu/](https://sisinflab.p
 
 ### Paolo Sorino
 
-_Ph.D. at Polytechnic University of Bari (Italy)_
+_Ph.D., Research Assistants at Polytechnic University of Bari (Italy)_
 
 Email: [paolo.sorino@poliba.it](mailto:paolo.sorino@poliba.it)
 
