@@ -8,6 +8,7 @@ layout: default
 <a href="#ID" class="button">Important Dates</a>
 <a href="#WO" class="button">Program</a>
 <a href="#OR" class="button">Organizers</a>
+<a href="#IN" class="button">Invited Talk</a>
 </div>
 
 
@@ -15,7 +16,7 @@ layout: default
 ## DESCRIPTION
 
 <p align="justify">
-Wearable Devices (WD s), such as smartwatches and fitness trackers, continuously produce extensive data streams that reveal valuable information about physiological states, activity patterns, and user interactions. These devices enable the construction of advanced user models, offering dynamic insights into personal routines, health trends, and behavioural tendencies. Meanwhile, Brain-Computer Interfaces (BCIs) emerge as a transformative technology by capturing neural activity to provide unprecedented access to cognitive and
+Wearable Devices (WDs), such as smartwatches and fitness trackers, continuously produce extensive data streams that reveal valuable information about physiological states, activity patterns, and user interactions. These devices enable the construction of advanced user models, offering dynamic insights into personal routines, health trends, and behavioural tendencies. Meanwhile, Brain-Computer Interfaces (BCIs) emerge as a transformative technology by capturing neural activity to provide unprecedented access to cognitive and
 emotional states. However, BCIs are not conventionally classified as wearables; the latest technological advancements have reduced their size to resemble everyday accessories like earphones, suggesting their potential integration into wearable formats in the near future.
 <br>
 Despite the promise of these technologies, the full exploitation of their data for user modelling and personalization—such as optimizing activities like media consumption or interaction design—remains underexplored. The convergence of WDs and BCIs opens up new avenues for understanding the complexity of human behaviour and preferences, and this potential is amplified by the integration of Large Language Models ( LLMs). By synthesizing and interpreting multimodal datasets, LLM s can better understand the intricate interplay between physiological, cognitive, and behavioural signals, ultimately enriching user modelling processes.
