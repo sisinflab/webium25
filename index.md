@@ -102,13 +102,14 @@ Topics of interest include, but are not limited to:
 
 ## IMPORTANT DATES <a name="ID"></a>
 TO BE DEFINED
+<!--  
 #+ <del>April 15, 2024: abstract and title submission (mandatory)</del>
 #+ <del>April 24,</del><b>May 3, 2024: paper submission</b>
 #+ May 8, 2024: notification to authors
-#+ May 16, 2024: camera-ready due
+#+ May 16, 2024: camera-ready due-->
 
 <div class="heading-button-container">
-<a href="https://easychair.org/conferences/?conf=umap24" class="button">Submit a paper</a>
+<!--<a href="https://easychair.org/conferences/?conf=umap24" class="button">Submit a paper</a>-->
 <a href="" class="button">Submit a paper</a>
 </div>
 
@@ -147,7 +148,7 @@ Website: [https://sisinflab.poliba.it/people/domenico-lofu/](https://sisinflab.p
 
 ### Paolo Sorino
 
-_Ph.D. Candidate at Polytechnic University of Bari (Italy)_
+_Ph.D. at Polytechnic University of Bari (Italy)_
 
 Email: [paolo.sorino@poliba.it](mailto:paolo.sorino@poliba.it)
 
@@ -191,7 +192,7 @@ Website: [https://sisinflab.poliba.it/people/tommaso-di-noia/](https://sisinflab
 
 ### Fedelucio Narducci 
 
-_Associate Professor at Polytechnic University of Bari (Italy)_
+_Full Professor at Polytechnic University of Bari (Italy)_
 
 Email: [fedelucio.narducci@poliba.it](mailto:fedelucio.narducci@poliba.it)
 
