@@ -111,9 +111,9 @@ TO BE DEFINED
 <!--<div class="heading-button-container">
 <a href="https://easychair.org/conferences/?conf=umap24" class="button">Submit a paper</a>
 <a href="" class="button">Submit a paper</a>
-</div>-->
+</div>
 
-During the submission process select <b>“2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling”</b>.
+During the submission process select <b>“2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling”</b>.-->
 
 
 ## PRELIMINARY PROGRAM <a name="WO"></a>
@@ -122,25 +122,13 @@ The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Mode
 
 + <b>09.00-09.10:</b> Opening and Welcome</b>
 + <b>09.10 - 09.50:</b> Invited Keynote<br>
-’Wearables and xR: From personalized healthcare to user-centred immersive experiences’
+’Wearables and xR: From personalized healthcare to user-centred immersive experiences’<br>
 by Tiago Falk, Full Professor at INRS-EMT, University of Quebec, FIEEE
-09.50 - 10.30 - I Session Paper Presentations
-10.30 - 11.00 - Break
-11.00 - 12.15 - II Session Paper Presentations
-12.15 - 12.25 - Lessons learned and roundtable with the authors
-12.25 - 12.45 - Wrap up and summary
-
-
-+ <b>09.15-09.40:</b> Marzo S. et al. - "Exploring the Usability and Trustworthiness of AI-Driven User Interfaces for Neurological Diagnosis".
-+ <b>09.40-10.05:</b> Mongardi S. et al. - "Exploring Federated Learning for Emotion Recognition on Brain-Computer Interfaces".
-+ <b>10.05-10:30:</b> Festa F. et al. - "EmoSynth Real Time Emotion-Driven Sound Texture Synthesis via Brain-Computer Interface".
-+ <b>10.30-11.00: Coffee Break</b>
-+ <b>11.00-11.45: Paper Presentation 2</b>
-+ <b>11.00-11.25:</b> Kumar K. et al. - "Assessing Human Visual Attention in Retail Human-Robot Interaction: A YOLOv8-Nano and Eye-Tracking Approach".
-+ <b>11.25-11.50:</b> Biancofiore G. M. et al. - "ARIEL: Brain-Computer Interfaces meet Large Language Models for Emotional Support Conversation".
-+ <b>11.50-12.20: Panel discussion with the Authors of the accepted papers</b>
-+ <b>12.20-12.30: Closing Remarks</b>
-
++ <b>09.50 - 10.30:</b> I Session Paper Presentations
++ <b>10.30 - 11.00:</b> Break
++ <b>11.00 - 12.15:</b> II Session Paper Presentations
++ <b>12.15 - 12.25:</b> Lessons learned and roundtable with the authors
++ <b>12.25 - 12.45:</b> Wrap up and summary
 
 ## ORGANIZERS <a name="OR"></a>
 
