@@ -131,6 +131,11 @@ The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Mode
 + <b>12.15 - 12.25:</b> Lessons learned and roundtable with the authors
 + <b>12.25 - 12.45:</b> Wrap up and summary
 
+## INVITED TALK <a name="IN"></a>
+
+<p align="justify">Tiago H. Falk is a Full Professor at the Institut national de la recherche scientifique, Centre on Energy, Materials, and Telecommunications (INRS-EMT), University of Québec, where he directs the Multisensory Signal Analysis and Enhancement Lab focused on building next-generation human-machine interfaces for both real and virtual worlds. He is also the Co-Director of the INRS-UQO Mixed Research Unit on Cybersecurity and Digital Trust, where research is being conducted to make human-machine interfaces secure and reliable by tackling emerging vulnerabilities to artificial intelligence algorithms. He is Co-Chair of the IEEE Future Directions in Telepresence Initiative, Co-Chair of the Technical Committee on Brain-Machine Interface Systems of the IEEE Systems, Man and Cybernetics (SMC) Society, Associate Editor of the IEEE Transactions on Human-Machine Systems, Member-at-Large of the IEEE SMC Society Board of Governors, Editor-in-Chief of the IEEE SMC eNewsletter, and a Fellow of the IEEE.</p>
+
+
 ## ORGANIZERS <a name="OR"></a>
 
 
