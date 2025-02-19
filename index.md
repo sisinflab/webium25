@@ -102,7 +102,12 @@ Topics of interest include, but are not limited to:
 
 
 ## IMPORTANT DATES <a name="ID"></a>
-TO BE DEFINED
+
+#+ March 15, 2025: abstract and title submission (mandatory)
+#+ <b>April 9, 2025: paper submission</b>
+#+ April 28, 20245 notification to authors
+#+ May 5, 2025: camera-ready due (mandatory)
+
 <!--  
 #+ <del>April 15, 2024: abstract and title submission (mandatory)</del>
 #+ <del>April 24,</del><b>May 3, 2024: paper submission</b>
