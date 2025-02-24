@@ -114,12 +114,12 @@ Topics of interest include, but are not limited to:
 #+ May 8, 2024: notification to authors
 #+ May 16, 2024: camera-ready due-->
 
-<!--<div class="heading-button-container">
-<a href="https://easychair.org/conferences/?conf=umap24" class="button">Submit a paper</a>
+<div class="heading-button-container">
+<a href="https://easychair.org/my/conference?conf=umap2025" class="button">Submit a paper</a>
 <a href="" class="button">Submit a paper</a>
 </div>
 
-During the submission process select <b>“2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling”</b>.-->
+During the submission process select <b>“WeBIUM - 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling”</b>.
 
 
 ## PRELIMINARY PROGRAM <a name="WO"></a>
