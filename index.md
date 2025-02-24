@@ -116,7 +116,7 @@ Topics of interest include, but are not limited to:
 
 <div class="heading-button-container">
 <a href="https://easychair.org/my/conference?conf=umap2025" class="button">Submit a paper</a>
-<a href="" class="button">Submit a paper</a>
+<!--<a href="" class="button">Submit a paper</a>-->
 </div>
 
 During the submission process select <b>“WeBIUM - 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling”</b>.
