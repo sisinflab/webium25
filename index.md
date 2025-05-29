@@ -122,7 +122,7 @@ Topics of interest include, but are not limited to:
 During the submission process select <b>“WeBIUM - 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling”</b>.
 
 
-## PRELIMINARY PROGRAM <a name="WO"></a>
+## PROGRAM <a name="WO"></a>
 
 The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling - WEBIUM25, will take place on  Thursday, June 19, from 02.00 to 05.30 PM.
 
