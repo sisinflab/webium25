@@ -124,8 +124,9 @@ During the submission process select <b>“WeBIUM - 2nd Workshop on Wearable Dev
 
 ## PRELIMINARY PROGRAM <a name="WO"></a>
 
-The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling - WEBIUM25, will take place on (To be Defined) <!--%Thursday, July 4, from 9.00 to 12.30.-->
+The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling - WEBIUM25, will take place on  Thursday, June 19, from 02.00 to 05.30 PM.
 
+<!--%
 + <b>09.00-09.10:</b> Opening and Welcome
 + <b>09.10 - 09.50:</b> Invited Talk<br>
 <b>’Wearables and xR: From personalized healthcare to user-centred immersive experiences’</b><br>
@@ -135,6 +136,23 @@ The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Mode
 + <b>11.00 - 12.15:</b> II Session Paper Presentations
 + <b>12.15 - 12.25:</b> Lessons learned and roundtable with the authors
 + <b>12.25 - 12.45:</b> Wrap up and summary
+-->
++ <b>02.00 - 02.10:</b> Opening and Welcome
++ <b>02.10 - 02.50:</b> <b>Invited Keynote</b><br>
+<b>’Wearables and xR: From personalized healthcare to user-centred immersive experiences’</b><br>
+<i>by Tiago Falk, Full Professor at INRS-EMT, University of Quebec, FIEEE</i><br>
++ <b>02.50 - 03.30:</b> <b>Paper Presentation Session 1</b>
++ <b>02.50 - 03.10:</b> Q. Nguyen, Z. Huiru, T. Tazin, L. Le, T. L. Vo, N. Tran, d- Williams-King and B. Tag - 'Emotion Recognition Using Text Embedding Models: Wearable and Wireless EEG Without Fixed EEG Channel Configurations'.
++ <b>03.10 - 03.30:</b> I. Bortone, F. Catino, G. Colacicco, R. Sardone and G. Campanile -
+'User Modeling Meets Research Integrity: Challenges in Translating AI-powered Rehabilitation Systems into Regulated Clinical Practice'.    
++ <b>03.30 - 04.00:</b> <b>Break</b>
++ <b>04.00 – 05.30:</b> <b>Paper Presentation Session 2</b>
++ <b>04.00 - 04.20:</b> M. De Leo, G. Salatino and F. Festa - 'Advanced prompt engineering techniques for generative sound synthesis models'.
++ <b>04.20 - 04.40:</b> A. Rezgui - 'On the Causality between Cognitive Stress and Physiological Stress? The Stroop Test as a Case Study'.
++ <b>04.40 - 05.00:</b> T. Colafiglio, D. Lofù, P. Sorino, A. Lombardi, F. Narducci and T. Di Noia - 'Neural Musical Instruments through Brain-Computer Interface and Biofeedback'.
++ <b>05.00 - 05.20:</b> D. Mattia and F. Festa - 'Sounds from Human Collective Intelligence'.
++ <b>05.20 - 05.30:</b> <b>Wrap up and summary</b>
+
 
 ## INVITED TALK <a name="IN"></a>
 
