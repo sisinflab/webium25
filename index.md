@@ -137,22 +137,22 @@ The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Mode
 + <b>12.15 - 12.25:</b> Lessons learned and roundtable with the authors
 + <b>12.25 - 12.45:</b> Wrap up and summary
 -->
-+ <b>02.00 - 02.10:</b> Opening and Welcome
++ <b>02.00 - 02.10:</b> <b>Opening and Welcome</b>
 + <b>02.10 - 02.50:</b> <b>Invited Keynote</b><br>
 <b>’Wearables and xR: From personalized healthcare to user-centred immersive experiences’</b><br>
 <i>by Tiago Falk, Full Professor at INRS-EMT, University of Quebec, FIEEE</i><br>
 + <b>02.50 - 03.30:</b> <b>Paper Presentation Session 1</b>
-+ <b>02.50 - 03.10:</b> <i>Q. Nguyen, Z. Huiru, T. Tazin, L. Le, T. L. Vo, N. Tran, d- Williams-King and B. Tag - </i> <br>
++ <b>02.50 - 03.10:</b> <i>Q. Nguyen, Z. Huiru, T. Tazin, L. Le, T. L. Vo, N. Tran, d- Williams-King and B. Tag </i> <br>
 'Emotion Recognition Using Text Embedding Models: Wearable and Wireless EEG Without Fixed EEG Channel Configurations'.
-+ <b>03.10 - 03.30:</b> <i>I. Bortone, F. Catino, G. Colacicco, R. Sardone and G. Campanile - </i>
++ <b>03.10 - 03.30:</b> <i>I. Bortone, F. Catino, G. Colacicco, R. Sardone and G. Campanile </i><br>
 'User Modeling Meets Research Integrity: Challenges in Translating AI-powered Rehabilitation Systems into Regulated Clinical Practice'.    
 + <b>03.30 - 04.00:</b> <b>Break</b>
 + <b>04.00 – 05.30:</b> <b>Paper Presentation Session 2</b>
-+ <b>04.00 - 04.20:</b> <i> M. De Leo, G. Salatino and F. Festa - </i><br> 'Advanced prompt engineering techniques for generative sound synthesis models'.
++ <b>04.00 - 04.20:</b> <i> M. De Leo, G. Salatino and F. Festa </i><br> 'Advanced prompt engineering techniques for generative sound synthesis models'.
 + <b>04.20 - 04.40:</b><i> A. Rezgui </i><br> 'On the Causality between Cognitive Stress and Physiological Stress? The Stroop Test as a Case Study'.
-+ <b>04.40 - 05.00:</b> <i>T. Colafiglio, D. Lofù, P. Sorino, A. Lombardi, F. Narducci and T. Di Noia - </i><br> 
++ <b>04.40 - 05.00:</b> <i>T. Colafiglio, D. Lofù, P. Sorino, A. Lombardi, F. Narducci and T. Di Noia </i><br> 
 'Neural Musical Instruments through Brain-Computer Interface and Biofeedback'.
-+ <b>05.00 - 05.20:</b> <i>D. Mattia and F. Festa - </i><br>
++ <b>05.00 - 05.20:</b> <i>D. Mattia and F. Festa </i><br>
 'Sounds from Human Collective Intelligence'.
 + <b>05.20 - 05.30:</b> <b>Wrap up and summary</b>
 
