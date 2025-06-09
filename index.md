@@ -124,7 +124,8 @@ During the submission process select <b>“WeBIUM - 2nd Workshop on Wearable Dev
 
 ## PROGRAM <a name="WO"></a>
 
-The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling - WEBIUM25, will take place on  Thursday, June 19, from 02.00 to 05.30 PM.
+The 2nd Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling (WEBIUM25) will be held on Thursday, 19 June 2025, from 02.00 to 05.30 PM, in room 325 of the Verizon Executive Education Center (Cornell Tech), located in the heart of New York City (Roosevelt Island, 12 W Loop Rd, New York, NY 10044, USA).
+
 
 <!--%
 + <b>09.00-09.10:</b> Opening and Welcome
